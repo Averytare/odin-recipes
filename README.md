@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first attempt at a project assignment for The Odin Project. It's taken me a few days to get to this point where I've got github and my local machine connected, it seems simple now but was very complicated a few days ago.
